@@ -1,0 +1,9 @@
+{
+	"name": "databricks-alura",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b00d90ab-31ba-43d1-9de4-d62da9e72303",
+		"tenantId": "132eb6e4-f0d0-4fd1-a0c8-92c5d2a865ec"
+	}
+}
